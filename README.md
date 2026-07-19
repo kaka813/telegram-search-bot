@@ -1,9 +1,11 @@
 # TG搜索机器人｜Telegram频道、群组和资源搜索工具
 
+🌐 **在线专题教程：** [TG搜索机器人在线专题](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/tg-sousuo-jiqiren/)
+
 TG云搜（[@TGYunSouBot](https://t.me/TGYunSouBot)）是一款面向普通 Telegram 用户的搜索机器人。用户可以直接发送关键词，查找公开频道、群组和相关资源；当你只知道主题、不知道准确频道名或用户名时，它提供了比逐个猜名称更直接的查询入口。
 
 > 本仓库用于产品介绍、使用教程和版本更新，不包含机器人服务端源代码，也不会上传 Token、API Key、Session、数据库或服务器配置。  
-> 最近更新：2026年7月19日
+> 最近更新：2026年7月20日
 
 ## 主要功能
 
